@@ -77,6 +77,3 @@ Kullanıcı arayüzü anlık olarak tema değiştirme özelliğine sahiptir. Gö
 
 Bu proje sayesinde hem Qt ile masaüstü uygulama geliştirme becerilerimi geliştirdim hem de kullanıcı deneyimini ön planda tutan modern bir sistem ortaya koydum. Tema geçişi ve dinamik arama özellikleri ile ödevime **+2 bonus puan** kazandırdım.
 
----
-
-🔗 Daha fazla Türkçe yazılım içeriği ve destek için [GPTOnline.ai/tr](https://gptonline.ai/tr/) sitesini ziyaret edebilirsin.
