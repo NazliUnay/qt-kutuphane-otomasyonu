@@ -50,7 +50,7 @@ Kullanıcı arayüzü anlık olarak tema değiştirme özelliğine sahiptir. Gö
 ## ✍️ Medium Yazım
 
 📖 Proje hakkında detaylı blog yazımı buradan okuyabilirsiniz:  
-👉 [Medium – @nazli_unay](https://medium.com/@nazli_unay)
+👉 [Medium – @nazli_unay]([https://medium.com/@nazli_unay](https://medium.com/@nazli_unay/qt-ile-geli%C5%9Ftirdi%C4%9Fim-k%C3%BCt%C3%BCphane-otomasyon-sistemi-f1da1335bc21))
 
 ---
 
