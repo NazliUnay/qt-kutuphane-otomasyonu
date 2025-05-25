@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/gorsel">
+        <file>images/book.jpg</file>
+        <file>images/odunc_1.jpg</file>
+        <file>images/odunc_2.jpg</file>
+        <file>images/user.jpg</file>
+    </qresource>
+</RCC>
