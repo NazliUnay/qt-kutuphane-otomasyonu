@@ -72,7 +72,12 @@ Kullanıcı arayüzü anlık olarak tema değiştirme özelliğine sahiptir. Gö
 - **Medium**: [medium.com/@nazli_unay](https://medium.com/@nazli_unay)
 
 ---
+## ✉️ İletişim
 
+Herhangi bir geri bildirim ya da geliştirme önerisi için iletişime geçebilirsiniz.  
+📧 E-posta: [unay.nazli42@gmail.com](mailto:unay.nazli42@gmail.com)
+
+---
 ## 🏁 Sonuç
 
 Bu proje sayesinde hem Qt ile masaüstü uygulama geliştirme becerilerimi geliştirdim hem de kullanıcı deneyimini ön planda tutan modern bir sistem ortaya koydum. Tema geçişi ve dinamik arama özellikleri ile ödevime **+2 bonus puan** kazandırdım.
