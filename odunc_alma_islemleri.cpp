@@ -1,4 +1,3 @@
-//23100011009
 //Şerife Nazlı Ünay
 #include "odunc_alma_islemleri.h"
 #include "ui_odunc_alma_islemleri.h"
