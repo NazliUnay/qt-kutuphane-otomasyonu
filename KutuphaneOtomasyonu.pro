@@ -1,4 +1,3 @@
-#23100010009
 #Şerife Nazlı Ünay
 QT       += core gui sql
 
