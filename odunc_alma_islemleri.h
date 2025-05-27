@@ -1,4 +1,3 @@
-//23100011009
 //Şerife Nazlı Ünay
 #ifndef ODUNC_ALMA_ISLEMLERI_H
 #define ODUNC_ALMA_ISLEMLERI_H
