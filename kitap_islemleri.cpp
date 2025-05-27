@@ -1,4 +1,3 @@
-//23100011009
 //Şerife Nazlı Ünay
 #include "kitap_islemleri.h"
 #include "ui_kitap_islemleri.h"
