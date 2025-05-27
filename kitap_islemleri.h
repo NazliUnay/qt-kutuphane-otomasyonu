@@ -1,4 +1,3 @@
-//23100011009
 //Şerife Nazlı Ünay
 #ifndef KITAP_ISLEMLERI_H
 #define KITAP_ISLEMLERI_H
