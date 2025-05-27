@@ -1,4 +1,3 @@
-//23100011009
 //Şerife Nazlı Ünay
 #ifndef UYE_ISLEMLERI_H
 #define UYE_ISLEMLERI_H
