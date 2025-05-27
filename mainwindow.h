@@ -1,4 +1,3 @@
-//23100011009
 //Şerife Nazlı Ünay
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
