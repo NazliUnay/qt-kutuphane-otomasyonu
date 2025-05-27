@@ -1,4 +1,3 @@
-//23100011009
 //Şerife Nazlı Ünay
 #include "mainwindow.h"
 
