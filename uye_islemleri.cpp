@@ -1,4 +1,3 @@
-//23100011009
 //Şerife Nazlı Ünay
 
 #include "uye_islemleri.h"
